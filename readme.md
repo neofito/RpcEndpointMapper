@@ -54,5 +54,6 @@ As I said, all the kudos to Clément Labro ([@itm4n](https://twitter.com/itm4n))
 - [Retrieving the Last-Error Code](https://docs.microsoft.com/en-us/windows/win32/debug/retrieving-the-last-error-code)
 - [CreateProcessAsUser fails with error 5 (Access Denied) when using Jobs](https://www.sysadmins.lv/retired-msft-blogs/alejacma/createprocessasuser-fails-with-error-5-access-denied-when-using-jobs.aspx)
 - [Perfusion](https://github.com/itm4n/Perfusion)
+- [RpcEptMapper elevation of privilege patch](https://github.com/GossiTheDog/fixes/tree/main/RpcEptMapper)
 
 Happy Hacking!
